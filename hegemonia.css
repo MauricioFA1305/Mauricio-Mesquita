@@ -1,0 +1,48 @@
+.titulo {
+  display: grid;
+  place-items: center;
+  font-size: 50px;
+}
+
+.text1 {
+  color: aliceblue;
+  font-size: 20px;
+  width: 400px;
+  height: 112px;
+  left: 40px;
+}
+
+.text2 {
+  color: aliceblue;
+  font-size: 20px;
+  width: 400px;
+  height: 112px;
+  right: 40px;
+  top: 700px;
+}
+
+.sticky {
+  position: absolute;
+}
+
+.sticky2 {
+    position: relative;
+  }
+
+.img {
+  top: 170px;
+  left: 0px;
+}
+
+.img2 {
+  top: 850px;
+  right: 0px;
+}
+
+.DS {
+  top: 1550px;
+  font-size: 30px;
+  color: #1e90ff;
+  display: grid;
+  place-items: center;
+}
